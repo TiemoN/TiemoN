@@ -4,9 +4,10 @@ My name is Tiemo and I am a soon to be Web developer💻. I love to create somet
 - coding ⌨️ 🖥️
 - music 🎧 🎼 🎹 
 - art 🧹
-- Being able to create is a gift that everyone should explore further. You only live once so leave something behind for others in the future to look at.
+---
+Being able to create is a gift that everyone should explore further. You only live once so leave something behind for others in the future to look at. <div></div>
  <img width="100" height="100" alt="image" src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExMHRibWs0MmI1YnZkbW53OTA4czdxdHl6NW54M29vOW9sNWk0dnUxaSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/J3ZB0wvXjsmJEvI2Dd/giphy.gif" />
-
+---
 
  # My personal wishlist
  <ul>
