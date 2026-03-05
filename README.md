@@ -34,5 +34,5 @@ Being able to create is a gift that everyone should explore further. You only li
 - Spotify [Myto(x)](https://open.spotify.com/intl-de/album/3OCZLbW6HlCkELFGLjn9pH)
 - [Instagram](https://www.instagram.com/tie.money.bie/)
 
-If you are interested in trying out a game I made, with my team AlphaStudios ,during my stay at the Games Academy then feel free to check out [TankTactics](https://github.com/TiemoN/AlphaStudios) (‼️Controller needed + 2-4 people‼️)
+If you are interested in trying out a game I made with my team AlphaStudios ,during my stay at the Games Academy, then feel free to check out [TankTactics](https://github.com/TiemoN/AlphaStudios) (‼️Controller needed + 2-4 people‼️)
 
